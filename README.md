@@ -14,8 +14,7 @@ Soubory končí na `_W1.jpg` (předek) a `_W2.jpg` (zadek).
 
 ## Servírování přes jsDelivr
 
-⚠️ **jsDelivr funguje jen s VEŘEJNÝM repem.** Dokud je repo privátní, CDN
-níže nebude fungovat — nejdřív repo přepni na public.
+
 
 ```
 https://cdn.jsdelivr.net/gh/dsikling/mudum-vizualizace@main/<MODEL>/<file>.jpg
